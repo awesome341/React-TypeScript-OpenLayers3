@@ -60,7 +60,7 @@ If you like this, you may also like [geo-coder](https://github.com/allenhwkim/ge
 
 ### To start
 
-    $ git clone https://github.com/allenhwkim/react-openlayers.git
+    $ git clone https://github.com/awesome341/React-TypeScript-OpenLayers3.git
     $ cd react-openlayers
     $ npm install
     $ npm start
