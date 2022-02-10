@@ -41,7 +41,7 @@
     "geo-coder": "^0.2.1",
     "html-loader": "^0.5.5",
     "mapbox-to-ol-style": "^3.4.3",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "npm-run-all": "^3.1.2",
     "openlayers": "^4.0.1",
     "raw-loader": "^0.5.1",
